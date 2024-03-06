@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* section bu njekk */
+.vert{
+    background-color: #2DC071;
+    border-radius:50%;
+    color:#FFFFFF;
+    width: 30px;
+    height: 30px;
+    padding: 2px;
+    text-align: center;
+}
+
+.transparent{
+    background-color:#BDBDBD;
+    border-radius:50%;
+    color:#FFFFFF;
+    width: 30px;
+    height: 30px;
+    padding: 2px;
+    text-align: center;
+}
+.heart{
+    background-color:#23A6F0;
+    border-radius:50%;
+    color:#FFFFFF;
+    width: 55px;
+    height: 55px;
+    padding: 15px;
+    text-align: center;
+}
+
+.new{
+    background-color:#E77C40;
+    border-radius:50%;
+    color:#FFFFFF;
+    width: 65px;
+    height: 65px;
+    padding: 13px;
+    text-align: center;
+}
+/* fin section bu njekk */
+
+
+/* niaareel section */
+.star {
+
+    border-radius:50%;
+    color:#F3CD03;
+    
+}
+.round img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    /* margin:0 10px; */
+}
+.ragina{
+    display:inline-block;
+    margin: 10px;
+}
+/* fin */
+
+/* niateeel section */
+.form-- input{
+    padding: 15px;
+}
+
+.form-- button{
+    padding: 15px;
+}
+
+/* photo */
+
+.flex3{
+    background-color:rgb(240, 244, 248);
+    border-radius:50%;
+    color:#FFFFFF;
+    width: 30px;
+    height: 30px;
+    padding: 3px;
+    text-align: center;
+}
+
+.sale{
+    background-color: #E74040;
+    padding: 3px;
+    margin-left: 4px;
+    margin-top: 10px;
+    height: 30px;
+    width: 50px;
+    border-radius:3px;
+    color: #FFFFFF;
+    text-align: center;
+    
+}
+
+/* .card-image img{
+    width: 350px;
+    height: 400px;
+} */
+/*  */
+.star-2{
+    background-color: #252B42;
+    border-radius:20px;
+    color:#FFFFFF;
+    width: 60px;
+    height: 30px;
+    padding: 4px;
+    text-align: center;
+    
+}
+
+.icon-social{
+    padding-left: 30%;
+}
+
+.button-blue .btn{
+    border-radius: 50px;
+}
